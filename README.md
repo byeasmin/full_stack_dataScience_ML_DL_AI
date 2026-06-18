@@ -1,4 +1,4 @@
-# Full Stack Data Science, ML, DL & AI
+# AI/ML & Data Science
 
 A collection of projects and code for Data Science, Machine Learning, Deep Learning, and AI.
 
